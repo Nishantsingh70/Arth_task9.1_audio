@@ -9,3 +9,6 @@ Task Description 📄
 💠 It is a graded or competitive task.
 
 ⚠️ NOTE: It is a compulsory TEAM task and Recommended by Vimal Sir.
+
+
+LinkedIn Blog URL: https://www.linkedin.com/posts/nishant-singh-276104185_python-vimaldaga-righteducation-activity-6739568501264134144-Eu9Y
